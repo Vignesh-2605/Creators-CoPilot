@@ -11,21 +11,21 @@ The goal of Creator's Co-Pilot is to empower content creators by handling the mo
 ## ✨ Core Features
 Multi-Source Content Generation: Create scripts from various inputs:
 
-### 📝 Topic: Generate a detailed, practical script from a single topic.
+📝 **Topic:** Generate a detailed, practical script from a single topic.
 
-### 🐙 GitHub Repository: Analyze a public repo's README to create a project spotlight video.
+🐙 **GitHub Repository:** Analyze a public repo's README to create a project spotlight video.
 
-### 📄 File Upload: Upload code, text files, or documents to generate a step-by-step tutorial or an explanatory video.
+📄 **File Upload:** Upload code, text files, or documents to generate a step-by-step tutorial or an explanatory video.
 
-### ✍️ Your Own Script: Provide your own script to be used directly for audio generation.
+✍️ **Your Own Script:** Provide your own script to be used directly for audio generation.
 
-### 🤖 Automated Metadata: Automatically generates a relevant YouTube title, description, and tags for every script.
+🤖 **Automated Metadata:** Automatically generates a relevant YouTube title, description, and tags for every script.
 
-### 🎤 High-Quality Local TTS: Uses the Suno Bark model to generate natural-sounding voiceovers locally, ensuring stability and removing reliance on external APIs.
+🎤 **High-Quality Local TTS:** Uses the Suno Bark model to generate natural-sounding voiceovers locally, ensuring stability and removing reliance on external APIs.
 
-### 💬 Modern Chat-Based UI: A sleek, conversational interface built with React makes the content creation process intuitive and engaging.
+💬 **Modern Chat-Based UI:** A sleek, conversational interface built with React makes the content creation process intuitive and engaging.
 
-###📊 Interactive Progress: A custom circular progress bar provides real-time feedback during the audio generation process.
+📊 **Interactive Progress:** A custom circular progress bar provides real-time feedback during the audio generation process.
 
 ## 🛠️ Technical Architecture & Deep Dive
 The project is built with a modern, decoupled architecture for scalability and maintainability.
